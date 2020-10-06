@@ -20,7 +20,7 @@ class App extends React.Component {
       this.setState({businesses: businesses})
     })
   }
-
+  
   render() {
     return (
       <div className="App">
